@@ -1,5 +1,5 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="30"/> I'm [Niraj](https://github.com/nirajkr2707/nirajkr2707.git) 
-
+<h1 align="center">Hi 👋, I'm Niraj </h1>
+<h3 align="center"> I design, code, test, and maintain applications to solve real-world problems and meet user needs.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on ¯\\\_(ツ)\_/
