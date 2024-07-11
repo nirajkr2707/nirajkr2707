@@ -1,6 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave" width="30"/> I'm [Niraj](https://github.com/nirajkr2707/nirajkr2707.git) 
 <h3 align="center"> I design, code, test, and maintain applications to solve real-world problems and meet user needs.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajkr2707&label=Profile%20views&color=0e75b6&style=flat" alt="nirajkr2707" /> </p>
 
 - 🔭 I’m currently working on ¯\\\_(ツ)\_/
 - 🌱 I’m currently learning **java.**
