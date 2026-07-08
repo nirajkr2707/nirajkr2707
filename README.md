@@ -335,7 +335,7 @@ A scalable backend application built with Spring Boot that provides secure REST 
 
 ---
 
-## 📊 Profile Summary *(current year snapshot — see all-time card above for lifetime stats)*
+## 📊 Profile Summary 
 <div align="center">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicode2707&theme=tokyonight"/>
 </div>
