@@ -143,12 +143,6 @@ Every day is a chance to become a better developer.
 
 ---
 
-# ✨ Quote of the Day
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 <div align="center">
 
 ### Thanks for visiting my profile ❤️
@@ -346,11 +340,6 @@ A scalable backend application built with Spring Boot that provides secure REST 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicode2707&theme=tokyonight"/>
 </div>
 
-
-
-
-
-
 ---
 
 
@@ -367,9 +356,12 @@ A scalable backend application built with Spring Boot that provides secure REST 
 ✔ Performance Optimization
 ✔ Best Coding Practices
 ```
+# ✨ Quote of the Day
+<div align="center">
 
----
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
 <div align="center">
 
 ### 🚀 "Code. Learn. Build. Repeat."
