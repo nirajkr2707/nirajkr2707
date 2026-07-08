@@ -314,33 +314,42 @@ A scalable backend application built with Spring Boot that provides secure REST 
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nicode2707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=1800"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=Nicode2707&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nicode2707&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nicode2707&theme=tokyonight&hide_border=true"/>
-
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicode2707&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count_weight=true"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nicode2707&theme=tokyonight&utcOffset=5.5"/>
 </div>
 
 ---
 
-# 📈 Contribution Activity
-
+## 📈 Contribution Graph
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicode2707&theme=tokyo-night&hide_border=true"/>
-
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicode2707&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
 
-# 🌍 Most Used Languages
+## 📊 Profile Summary *(current year snapshot — see all-time card above for lifetime stats)*
+<div align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicode2707&theme=tokyonight"/>
+</div>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicode2707&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nicode2707&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nicode2707&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicode2707&theme=tokyonight"/>
+</div>
+
+
+
+
+
 
 ---
 
