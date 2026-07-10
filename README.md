@@ -6,7 +6,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm **Niraj Kumar**
 
-### 💻 Java Full Stack Developer | Spring Boot | React | AI Enthusiast
+### 💻 Java Backend Developer | Spring Boot | React | AI Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=3FA9F5&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Learner;AI+Application+Builder;Open+Source+Contributor;Always+Learning+New+Technologies" />
 
